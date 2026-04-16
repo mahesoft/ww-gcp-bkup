@@ -1,9 +1,0 @@
-{
-  "name": "qb-gcs-function",
-  "version": "1.0.0",
-  "main": "index.js",
-  "dependencies": {
-    "@google-cloud/storage": "^7.7.0",
-    "axios": "^1.6.0"
-  }
-}
