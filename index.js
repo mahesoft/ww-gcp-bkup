@@ -16,7 +16,7 @@ app.get("/", (req, res) => {
 });
 
 /**
- * Download file from Quickbase date 17-apr-2026
+ * Download file from Quickbase date 17-apr
  */
 async function downloadFromQuickbase(fileUrl) {
   const response = await axios({
